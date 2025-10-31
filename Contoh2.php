@@ -1,0 +1,24 @@
+<html>
+
+<head>
+    <title>Contoh 02</title>
+</head>
+
+<body bgcolor="#00CCFF" text="#FF0000">
+    <p>
+        Ini adalah contoh penggunaan formatting TAG dalam HTML <br />
+        masing-masing TAG memiliki atribut masing-masing <br />
+    </p>
+
+    <font color="#000000">
+        Ini juga termasuk contoh penggunaan formatting TAG <br /><br />
+    </font>
+
+    <h1>
+        <marquee width="50%" bgcolor="#000099">
+            Ini juga salah satu penggunaan Tag
+        </marquee>
+    </h1>
+</body>
+
+</html>
